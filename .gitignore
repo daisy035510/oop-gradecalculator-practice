@@ -4,3 +4,4 @@ out
 
 ### IntelliJ IDEA ###
 .idea
+.idea/*.xml
